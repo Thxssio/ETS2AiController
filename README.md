@@ -11,3 +11,10 @@
 #
 - [x] Python
 - [ ] C++
+
+
+ETS2:
+
+```
+https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
+```
